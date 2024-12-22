@@ -1,0 +1,33 @@
+Postfix Expression: 3 5 5 5 /-2 *2 *+
+Result: 1
+
+Postfix Expression: 14 10 -7 /+
+Result: 13
+
+Postfix Expression: -2 2 +
+Result: 0
+
+Postfix Expression: 100 3 /2 /
+Result: 16
+
+Postfix Expression: -3 5 10 2 -*+
+Result: 37
+
+Postfix Expression: 1 1 +1 +1 8 *+
+Result: 11
+
+Postfix Expression: 100 3 2 /+
+Result: 101
+
+Postfix Expression: 100 3 %
+Result: 1
+
+Postfix Expression: 3 0 /
+Error: Division/Modulo by zero.
+
+Postfix Expression: -20 100 3 +*
+Result: -2060
+
+Postfix Expression: 100 0 %
+Error: Division/Modulo by zero.
+
